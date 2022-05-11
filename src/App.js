@@ -6,7 +6,7 @@ export default function App() {
       <h1> Weather App</h1>
       <footer>
         This project was coded by{" "}
-        <a href="" target="_blank">
+        <a href="http://localhost:3000/" target="_blank">
           Adeola Adedeji
         </a>{" "}
         and is {""}
