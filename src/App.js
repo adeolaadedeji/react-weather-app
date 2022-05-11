@@ -6,13 +6,13 @@ export default function App() {
       <h1> Weather App</h1>
       <footer>
         This project was coded by{" "}
-        <a href="http://localhost:3000/" target="_blank">
+        <a href="http://localhost:3000/" rel="opener">
           Adeola Adedeji
         </a>{" "}
         and is {""}
         <a
           href="https://github.com/adeolaadedeji/react-weather-app"
-          target="_blank"
+          rel="opener"
         >
           open sourced on GitHub
         </a>
